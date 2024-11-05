@@ -24,13 +24,13 @@ This Python-based game is a unique take on cricket, focusing on odd and even num
 - **Python**: Game logic and random number generation.
 
 ## Game Play Instructions
--When prompted, select if you want to play as "odd" or "even."
--Enter a number between 1 and 6 to make your choice.
--The computer will randomly select its number.
--The result of each round will be displayed, showing if the player scored or got "out."
--The game keeps a running total of the player's score, which resets to zero upon "out."
+- When prompted, select if you want to play as "odd" or "even."
+- Enter a number between 1 and 6 to make your choice.
+- The computer will randomly select its number.
+- The result of each round will be displayed, showing if the player scored or got "out."
+- The game keeps a running total of the player's score, which resets to zero upon "out."
 
 ## Future Improvements
--UI Enhancements: Add a graphical interface for a more interactive experience.
--Multiplayer Mode: Enable two-player gameplay.
--Improved Scoring System: Track scores across multiple sessions or rounds.
+- UI Enhancements: Add a graphical interface for a more interactive experience.
+- Multiplayer Mode: Enable two-player gameplay.
+- Improved Scoring System: Track scores across multiple sessions or rounds.
